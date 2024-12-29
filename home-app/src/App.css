@@ -1,0 +1,35 @@
+.HeaderApp {
+  background: #16c0e5;
+  padding: 10px;
+  color: #fff;
+  width: 98%;
+}
+
+.FooterApp {
+  background: #16c0e5;
+  padding: 16px;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  width: 97%;
+}
+
+.SettingsApp {
+  background: #4fa34a;
+  padding: 16px;
+  color: #fff;
+  width: 200px;
+  height: 100%;
+  float: right;
+  display: inline-grid;
+}
+.logo{
+  display: inline-block;
+  width: 200px;
+}
+.menu{
+  float: right;
+  display: inline-block;
+  width: 200px;
+  margin-top: 23px;
+}
